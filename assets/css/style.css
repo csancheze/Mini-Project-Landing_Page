@@ -1,0 +1,83 @@
+/* Universal Selector */
+* {
+  margin:0;
+  padding:0;  
+}
+
+/* Element Selectors */
+body {
+ 
+}
+
+h1,
+h2 {
+  
+}
+
+main {
+ 
+}
+
+li {
+  
+}
+
+a {
+  
+}
+
+header,
+footer {
+  
+}
+
+header {
+  
+}
+
+footer {
+  
+}
+
+figure {
+
+}
+
+img {
+
+}
+
+section {
+  
+}
+
+form {
+  /* Center the form on the page */
+  
+}
+
+label {
+  
+}
+  
+input, 
+textarea {
+  
+}
+
+textarea {
+  
+}
+  
+button {
+
+}
+ 
+/* Class Selectors */
+.text-center {
+
+}
+
+.text-right {
+  
+}
